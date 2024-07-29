@@ -1,0 +1,49 @@
+*
+{background-color: rgb(0, 0, 0);} 
+h2
+{text-align: right;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+color:rgb(255, 16, 16);
+text-decoration: underline;
+padding-right: 50px;
+}
+#coder{
+    
+    border-width: 2px;
+    border-style:solid;
+    border-color: rgb(213, 131, 131);
+    border-radius:8px;
+}
+
+p
+{font-size: 15px;
+color: antiquewhite;}
+#youtube
+{ border-width: 2px;
+    border-style:solid;
+    border-color: rgb(216, 49, 49);
+    border-radius:10px;}
+#intra 
+{ border-width: 2px;
+    border-style:solid;
+    border-color: rgb(192, 65, 141);
+    border-radius:10px;}
+#snap
+{border-width: 2px;
+    border-style:solid;
+    border-color: rgb(255, 235, 57);
+    border-radius :10px;
+}
+#github
+{ border-width: 2px;
+    border-style:solid;
+    border-color: rgb(255, 255, 255);
+    border-radius:10px;
+}
+#linkedin
+{ border-width: 2px;
+    border-style:solid;
+    border-color: rgb(61, 130, 204);
+    border-radius:10px;
+
+}
