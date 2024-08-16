@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+}
+#img{margin-top:1%;
+    height:175px;
+    width: 175px;
+    display: inline-block;
+    border: 2px;
+    border-color: black;
+    border-radius:100px;
+}
+#h2{
+    text-align: right;
+    margin-right: 45px;
+    margin-top: 2px;
+    }
+#para{
+    margin-right: 32px;
+    margin-left: 2px;
+}
+
+#box1{
+    background-color: rgb(215, 215, 215);
+    width: 31px;
+    height: 190px;
+   justify-content: center;
+   top:0.5%;
+   right: 1%;
+  position: fixed;
+    border-radius: 2.5px;
+}
+#instra{
+    border-radius: 4px;
+}
+#youtube {
+    border-radius: 4px;
+}
+#linkedin{
+    border-radius: 4px;
+}
+#snap{
+    border-radius: 4px;
+}
+#github{
+    border-radius: 4px;
+}
+
